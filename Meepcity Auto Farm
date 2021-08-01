@@ -12098,6 +12098,7 @@ inputService.InputEnded:Connect(function (key)
 	end
 end)
 while wait(0) do
-    print("Follow @TwoSide3Point0 on tiktok or you will never find pretty good scripts that he posts again! DO IT NOW YOU HOE
-    Also i put Infinite yeild and a shift to run script in here the speed is 48 when you run")
+    print("Follow @TwoSide3Point0 on tiktok or you will never find pretty good scripts that he posts again! DO IT NOW 
+YOU HOE Also i put Infinite yeild and a
+ shift to run script in here the speed is 48 when you run")
 end
