@@ -21,7 +21,7 @@ wait(0)
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Welcom";
-Text = "Hellow and welcom to or back to this script";
+Text = "Hello and welcom to or back to this script";
 })
 
 -- Objects
